@@ -1,0 +1,15 @@
+{
+  "name": "@jjstrydom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "euler1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node euler1.js"
+  },
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "mathjs": "^3.17.0"
+  }
+}
